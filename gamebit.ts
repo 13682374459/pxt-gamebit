@@ -78,15 +78,7 @@ namespace gamebit {
 
     }
 
-    /**
-      * return rocker y-axis analog value
-      */
-    //% weight=70
-    //% blockId=y_axis block="y-axis value"
-    export function y_axis(): number {
-        return pins.analogReadPin(AnalogPin.P1);
 
-    }
 
     /**
      * scan a button whether be triggered : return 'true' if pressed; return'false' if not.
