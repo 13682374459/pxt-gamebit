@@ -1,0 +1,20 @@
+{
+  "GameBitPin.A_Button|block": "A button",
+  "GameBitPin.B_Button|block": "B button",
+  "GameBitPin.ROCKER_Button|block": "ROCKER button",
+  "GameBitPin.SELECT_Button|block": "SELECT button",
+  "GameBitPin.START_Button|block": "START button",
+  "GameBitPin.X_Button|block": "X button",
+  "GameBitPin.Y_Button|block": "Y button",
+  "gamebit.BuzzerPitch|block": "buzzer pitch %frequency|for (ms) %ms",
+  "gamebit.Motor.OFF|block": "off",
+  "gamebit.Motor.ON|block": "on",
+  "gamebit.axis.x_axis|block": "x-axis",
+  "gamebit.axis.y_axis|block": "y-axis",
+  "gamebit.keyState|block": "|%button|is pressed",
+  "gamebit.rocker|block": "rocker|%index",
+  "gamebit.vibratorMotor|block": "vibratorMotor|%index|",
+  "gamebit.y_axis|block": "y-axis value",
+  "gamebit|block": "gamebit",
+  "{id:category}Gamebit": "Gamebit"
+}

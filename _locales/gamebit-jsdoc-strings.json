@@ -1,0 +1,11 @@
+{
+  "GameBitPin": "User Buttons for game:bit Players.",
+  "gamebit": "Functions for Labplus game:bit Players",
+  "gamebit.BuzzerPitch": "buzzer Emits a Pulse-width modulation (PWM) signal to the  pin8",
+  "gamebit.BuzzerPitch|param|frequency": "frequency to modulate in Hz. eg:1000",
+  "gamebit.BuzzerPitch|param|ms": "duration of the pitch in milli seconds.     eg:1000",
+  "gamebit.keyState": "scan a button whether be triggered : return 'true' if pressed; return'false' if not.",
+  "gamebit.rocker": "return rocker x/y-axis analog value",
+  "gamebit.vibratorMotor": "vibrator Motor switch.",
+  "gamebit.y_axis": "return rocker y-axis analog value"
+}
