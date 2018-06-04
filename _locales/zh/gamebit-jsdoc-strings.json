@@ -1,0 +1,10 @@
+{
+  "GameBitPin": "Game:bit按键",
+  "gamebit": "Game:bit模块",
+  "gamebit.BuzzerPitch": "引脚为8",
+  "gamebit.BuzzerPitch|param|frequency": "frequency to modulate in Hz. eg:1000",
+  "gamebit.BuzzerPitch|param|ms": "duration of the pitch in milli seconds.     eg:1000",
+  "gamebit.keyState": "",
+  "gamebit.rocker": "摇杆x/y轴的模拟值",
+  "gamebit.vibratorMotor": "震动马达"
+}

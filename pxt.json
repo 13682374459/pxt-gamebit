@@ -1,6 +1,6 @@
 {
     "name": "gamebit",
-    "version": "0.0.0",
+    "version": "0.0.6",
     "description": "Laplus's game:bit makecode library",
     "license": "MIT",
     "dependencies": {
@@ -9,7 +9,9 @@
     },
     "files": [
         "README.md",
-        "gamebit.ts"
+        "gamebit.ts",
+        "_locales/zh/gamebit-strings.json",
+        "_locales/zh/gamebit-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
