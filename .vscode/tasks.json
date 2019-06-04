@@ -1,5 +1,5 @@
 
-// A task runner that calls the MakeCode (PXT) compiler多发点
+// A task runner that calls the MakeCode (PXT) compiler
 {
     "version": "2.0.0",
     "tasks": [{
