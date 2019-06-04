@@ -13,7 +13,7 @@
   "gamebit.axis.y_axis|block": "y轴",
   "gamebit.keyState|block": "|%button|按键被按下",
   "gamebit.rocker|block": "摇杆|%index|的值",
-  "gamebit.vibratorMotor|block": "震动马达|%index|",
+  "gamebit.vibratorMotor|block": "震动马达测试|%index|",
   "gamebit|block": "Gamebit",
   "{id:category}Gamebit": "Gamebit"
 }
