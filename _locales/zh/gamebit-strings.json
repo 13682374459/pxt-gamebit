@@ -6,7 +6,7 @@
   "GameBitPin.START_Button|block": "START",
   "GameBitPin.X_Button|block": "X",
   "GameBitPin.Y_Button|block": "Y",
-  "gamebit.BuzzerPitch|block": "设置蜂鸣器音调 %frequency|延时 %ms",
+  "gamebit.BuzzerPitch|block": "设置蜂鸣器是音调 %frequency|延时 %ms",
   "gamebit.Motor.OFF|block": "关",
   "gamebit.Motor.ON|block": "开",
   "gamebit.axis.x_axis|block": "x轴",
